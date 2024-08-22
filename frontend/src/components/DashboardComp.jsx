@@ -3,7 +3,7 @@ import { HiAnnotation, HiArrowNarrowUp, HiDocumentText, HiOutlineUserGroup } fro
 import { useSelector } from 'react-redux';
 import { Link } from "react-router-dom";
 
-const DashBoardComp = () => {
+const DashboardComp = () => {
     const [users, setUsers] = useState([])
     const [comments, setComments] = useState([]);
     const [posts, setPosts] = useState([]);
@@ -214,4 +214,4 @@ const DashBoardComp = () => {
     );
 }
 
-export default DashBoardComp
+export default DashboardComp

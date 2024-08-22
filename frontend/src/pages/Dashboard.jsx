@@ -1,7 +1,7 @@
 // Dashboard.js
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
-import { DashBoardComp } from "../components/DashboardComp";
+import { DashboardComp } from "../components/DashboardComp";
 import { DashComments } from "../components/DashComments";
 import { DashPosts } from "../components/DashPosts";
 import { DashProfile } from "../components/DashProfile";
@@ -30,7 +30,7 @@ const Dashboard = () => {
             {/* Content Area */}
             <div className="flex-1 w-full sm:w-auto overflow-auto">
                 {tab === 'profile' && <DashProfile />}
-                {tab === 'dash' && <DashBoardComp />}
+                {tab === 'dash' && <DashboardComp />}
                 {tab === 'posts' && <DashPosts />}
                 {tab === 'users' && <DashUsers />}
                 {tab === 'comments' && <DashComments />}
