@@ -1,7 +1,7 @@
 // Dashboard.js
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
-import { DashboardComp } from "../components/DashboardComp";
+import DashboardComp from "../components/DashboardComp";
 import { DashComments } from "../components/DashComments";
 import { DashPosts } from "../components/DashPosts";
 import { DashProfile } from "../components/DashProfile";
