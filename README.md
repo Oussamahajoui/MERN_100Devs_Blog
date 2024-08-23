@@ -1,6 +1,9 @@
 # 100Devs Blog: [Visit Here!](https://one00devs-blog.onrender.com)  
 This blog is a community resource created by the 100Devs community for sharing tech tips, career advice, words of wisdom, and more!
 
+<div align = "center">
+[<img src="https://github.com/user-attachments/assets/5f845aca-67b0-40e3-94f8-544ecdc3f857" width="80%">](https://vimeo.com/1001816353)</div>
+
 
 ## Project Link
 *Link to project:*[100Devs Blog](https://one00devs-blog.onrender.com)
