@@ -56,9 +56,9 @@ Here are some areas for potential improvement:
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website/">Garry's Florist website</a>
+<a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">Garry's Florist website</a>
         <br />
-      <a target="_blank" href="https://github.com/Oussamahajoui/MERN_100Devs_Blog">
+      <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">
             <img src="https://github.com/user-attachments/assets/7a83446f-4fdf-4f6f-bf3e-8976765d72d3" width="100%"  alt="Garry's Florist website"/>
         </a>
     </td>
