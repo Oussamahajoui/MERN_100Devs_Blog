@@ -1,5 +1,5 @@
 # 100Devs Blog: [Visit Here!](https://one00devs-blog.onrender.com)  
-This blog is a community resource created by the 100Devs community for sharing tech tips, career advice, words of wisdom, and more!
+I created this blog to serve as a valuable resource for the 100Devs community for sharing tech tips, career advice, words of wisdom, and more!
 
 <div align="center">
   <a href="https://vimeo.com/1001816353" target="_blank">
