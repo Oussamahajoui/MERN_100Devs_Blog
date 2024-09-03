@@ -1,6 +1,11 @@
 # 100Devs Blog: [Visit Here!](https://one00devs-blog.onrender.com)  
-This blog is a community resource created by the 100Devs community for sharing tech tips, career advice, words of wisdom, and more!
+I created this blog to serve as a valuable resource for the 100Devs community for sharing tech tips, career advice, words of wisdom, and more!
 
+<div align="center">
+  <a href="https://vimeo.com/1001816353" target="_blank">
+    <img src="https://github.com/user-attachments/assets/873b8e67-82e6-4fe7-a76e-b4f25a97e488" width="80%">
+  </a>
+</div>
 
 ## Project Link
 *Link to project:*[100Devs Blog](https://one00devs-blog.onrender.com)
@@ -47,5 +52,29 @@ Here are some areas for potential improvement:
 - **Rich Text Editing:** Integrated ReactQuill for advanced text editing features.
 
 ## More Projects
-*Will share additional projects here*
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">Garry's Florist website</a>
+        <br />
+      <a target="_blank" href="https://github.com/Oussamahajoui/garys-florists-website">
+            <img src="https://github.com/user-attachments/assets/7a83446f-4fdf-4f6f-bf3e-8976765d72d3" width="100%"  alt="Garry's Florist website"/>
+        </a>
+    </td>
+	  <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">Tips Splitting App</a>
+        <br />
+        <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">
+          <img src="https://github.com/user-attachments/assets/ee2060db-72b9-46c0-b352-f480483f8284" width="100%" alt="Tips Splitting App"/>
+        </a>
+    </td>
+	  <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
+        <br />
+        <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator">
+          <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
+        </a>
+    </td> 
+  </table>
 
