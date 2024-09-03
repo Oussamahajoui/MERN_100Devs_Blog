@@ -28,9 +28,8 @@ const Home = () => {
                             100Devs is an agency of full stack software engineers, with a training program.<br />
                             This blog, is a resource made by the community for the community to share Tech tips, carrer advice, words of wisdom and everything in between!
                         </p>
-                        <button className="btn btn-primary mt-5">
-                            <Link to='/search'></Link>
-                            View all posts</button>
+                        <Link to='/search'><button className="btn btn-primary mt-5">
+                            View all posts</button></Link>
                     </div>
                 </div>
             </div>
